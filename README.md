@@ -21,3 +21,5 @@
 
 Не забудьте написать unit-тесты, которые обеспечивают 100% покрытие функций и классов, которые вы тестируете.
 ---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/txgvxpit4q0thgdf/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ajs-8-3/branch/main)
