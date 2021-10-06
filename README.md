@@ -36,3 +36,7 @@
 Не забудьте написать unit-тесты, которые обеспечивают 100% покрытие функций и классов, которые вы тестируете.
 
 ### Map***
+
+[![Build status](https://ci.appveyor.com/api/projects/status/dc5gjvssffv6x0v7/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ajs-8-3-ax199/branch/main)
+
+---
